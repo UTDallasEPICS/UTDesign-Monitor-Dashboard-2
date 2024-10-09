@@ -11,15 +11,18 @@
   },
   "dependencies": {
     "@prisma/nuxt": "^0.0.35",
-    "nuxt": "^3.13.0",
+    "lodash": "^4.17.21",
+    "nuxt": "^3.13.2",
     "prisma": "^5.19.1",
     "pug": "^3.0.3",
     "sqlite3": "^5.1.7",
     "tailwind": "^4.0.0",
+    "tailwindcss": "^3.4.13",
     "vue": "latest",
     "vue-router": "latest"
   },
   "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.1",
     "@prisma/client": "^5.19.1"
   }
 }
