@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@auth0/nextjs-auth0": "^3.5.0",
     "@prisma/nuxt": "^0.0.35",
     "nuxt": "^3.13.0",
     "prisma": "^5.19.1",
