@@ -18,5 +18,9 @@ div.mx-auto.mt-20.absolute
       NuxtLink(to="/new-dashboard") New Dashboard
     button.bg-gray-200.px-4.py-2
       NuxtLink(to="/admin") Admin
+    button.bg-gray-200.px-4.py-2
+      a(href="/api/login") Login
+    button.bg-gray-200.px-4.py-2
+      a(href="/api/logout") Logout
   NuxtPage
 </template>
